@@ -4,6 +4,8 @@ A tiny, dependency-light QR code generator that runs entirely in your browser â€
 
 **Live:** https://qrcode-gen.weisser.dev
 
+![Screenshot of qrcode-gen.weisser.dev](docs/screenshot.jpg)
+
 ## Features
 
 - Any text or URL as content
